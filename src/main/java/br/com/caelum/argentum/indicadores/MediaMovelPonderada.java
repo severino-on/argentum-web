@@ -6,7 +6,7 @@ public class MediaMovelPonderada implements Indicador{
 
 	private Indicador outroIndicador;
 
-	public MediaMovelPonderada_(Indicador outroIndicador) {
+	public MediaMovelPonderada(Indicador outroIndicador) {
 		this.outroIndicador = outroIndicador;
 	}
 	
